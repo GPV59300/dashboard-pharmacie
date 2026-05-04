@@ -1,4 +1,0 @@
-streamlit
-pandas
-pdfplumber
-psycopg2-binary
